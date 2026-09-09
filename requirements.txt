@@ -1,0 +1,14 @@
+pandas
+pyarrow
+python-dotenv
+google-genai
+tenacity
+tqdm
+matplotlib
+seaborn
+scikit-learn
+lifelines
+prefixspan
+textdistance
+scipy
+vaderSentiment
