@@ -9,9 +9,13 @@ against source group and outcome.
 """
 from __future__ import annotations
 
+import warnings
+
 import numpy as np
 import pandas as pd
 import textdistance
+
+warnings.filterwarnings("ignore", category=RuntimeWarning, module="sklearn")
 from scipy.cluster.hierarchy import dendrogram, fcluster, linkage
 from sklearn.manifold import MDS
 
