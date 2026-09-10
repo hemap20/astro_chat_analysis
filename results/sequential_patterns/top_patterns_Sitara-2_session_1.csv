@@ -1,0 +1,16 @@
+pattern,support,support_frac,length
+astro_other -> astro_callback_within,96,0.96,2
+user_neutral -> astro_other,96,0.96,2
+astro_other -> astro_other,95,0.95,2
+user_neutral -> astro_callback_within,93,0.93,2
+user_neutral -> astro_other -> astro_callback_within,92,0.92,3
+astro_other -> astro_other -> astro_callback_within,91,0.91,3
+user_neutral -> astro_other -> astro_other,91,0.91,3
+astro_callback_within -> astro_callback_within,90,0.9,2
+astro_other -> astro_callback_within -> astro_callback_within,90,0.9,3
+astro_other -> astro_other -> astro_other,87,0.87,3
+user_neutral -> astro_callback_within -> astro_callback_within,87,0.87,3
+astro_callback_within -> astro_callback_within -> astro_callback_within,87,0.87,3
+user_neutral -> astro_other -> astro_callback_within -> astro_callback_within,86,0.86,4
+user_neutral -> astro_other -> astro_other -> astro_callback_within,86,0.86,4
+astro_other -> astro_callback_within -> astro_callback_within -> astro_callback_within,86,0.86,4

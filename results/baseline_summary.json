@@ -1,0 +1,9 @@
+{
+  "n_users_returned":60.0,
+  "n_users_returned_human_single":10.0,
+  "n_users_returned_human_astro":50.0,
+  "n_users_not_returned":25.0,
+  "n_sessions_returned":703.0,
+  "n_sessions_not_returned":25.0,
+  "warning":null
+}

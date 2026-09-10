@@ -1,0 +1,16 @@
+pattern,support,support_frac,length
+astro_dated_prediction -> astro_other,17,0.9444444444444444,2
+astro_other -> astro_other,17,0.9444444444444444,2
+user_neutral -> astro_other,17,0.9444444444444444,2
+astro_other -> astro_dated_prediction,17,0.9444444444444444,2
+astro_other -> astro_dated_prediction -> astro_other,16,0.8888888888888888,3
+user_neutral -> astro_dated_prediction,16,0.8888888888888888,2
+user_neutral -> astro_dated_prediction -> astro_other,16,0.8888888888888888,3
+user_neutral -> astro_other -> astro_dated_prediction,16,0.8888888888888888,3
+user_neutral -> astro_other -> astro_other,16,0.8888888888888888,3
+astro_other -> astro_other -> astro_other,15,0.8333333333333334,3
+user_neutral -> astro_other -> astro_dated_prediction -> astro_other,15,0.8333333333333334,4
+user_enthusiastic -> astro_other,15,0.8333333333333334,2
+astro_other -> user_enthusiastic,15,0.8333333333333334,2
+astro_other -> user_neutral_factual,15,0.8333333333333334,2
+astro_other -> astro_dated_prediction -> astro_callback_within,15,0.8333333333333334,3

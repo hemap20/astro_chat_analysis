@@ -12,3 +12,5 @@ prefixspan
 textdistance
 scipy
 vaderSentiment
+tslearn
+pm4py

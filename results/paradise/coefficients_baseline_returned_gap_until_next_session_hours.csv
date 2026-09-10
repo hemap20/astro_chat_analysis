@@ -1,0 +1,10 @@
+,coefficient
+reframe,4.017384820612523
+sentiment_trend,1.9450094677706171
+validation,1.7286440164897088
+specific_open_thread_named,-1.424155317127464
+concrete_dated_prediction,-1.4125967180521992
+callback_within_session,-0.3426206285401052
+callback_prior_session,-0.29614784669728306
+self_correction,0.062132118721848116
+mean_sentiment,-0.0035292611973181086

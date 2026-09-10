@@ -125,10 +125,17 @@ def _split_sessions(df: pd.DataFrame, source_folder: str, fname: str) -> list[pd
     boundaries = sorted(set(start_idxs))
     # The first session doesn't always open with an explicit "Welcome to
     # AstroLokal" marker (e.g. the file's coverage window starts mid-session,
-    # or the export just omits it). Whenever the earliest known start marker
-    # isn't already at row 0, synthesize a boundary at the file start so
-    # leading messages are kept as session 1 rather than silently dropped.
-    if not boundaries or boundaries[0] != df.index[0]:
+    # or the export just omits it). Whenever there are OTHER real markers
+    # later in the file and the earliest one isn't at row 0, synthesize a
+    # boundary at the file start so leading messages are kept as session 1
+    # rather than silently dropped between two already-marked sessions.
+    #
+    # But when the file has only ONE marker total, an unmarked stretch before
+    # it is treated as part of that same single session rather than split
+    # into a synthetic extra one purely from an internal gap (per product
+    # decision -- session count here follows explicit markers only; the
+    # internal-gap check below still flags these for visibility).
+    if len(boundaries) > 1 and boundaries[0] != df.index[0]:
         ISSUES.append(
             ParseIssue(
                 source_folder, fname, "no_start_marker_for_first_session",
@@ -136,6 +143,8 @@ def _split_sessions(df: pd.DataFrame, source_folder: str, fname: str) -> list[pd
             )
         )
         boundaries = [df.index[0]] + boundaries
+    elif not boundaries:
+        boundaries = [df.index[0]]
     sessions = []
     for k, start in enumerate(boundaries):
         stop = boundaries[k + 1] if k + 1 < len(boundaries) else df.index[-1] + 1

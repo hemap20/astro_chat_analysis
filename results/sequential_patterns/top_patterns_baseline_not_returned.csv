@@ -1,0 +1,16 @@
+pattern,support,support_frac,length
+astro_other -> astro_other,19,0.95,2
+astro_other -> astro_other -> user_neutral_factual,18,0.9,3
+astro_other -> user_neutral_factual,18,0.9,2
+user_neutral -> astro_other,18,0.9,2
+user_neutral -> astro_other -> astro_other,18,0.9,3
+astro_other -> astro_other -> astro_other,18,0.9,3
+user_neutral -> astro_other -> astro_other -> astro_other,17,0.85,4
+user_neutral -> astro_other -> astro_other -> user_neutral_factual,17,0.85,4
+user_neutral -> astro_other -> user_neutral_factual,17,0.85,3
+user_neutral -> user_neutral_factual,17,0.85,2
+astro_other -> user_neutral_factual -> astro_callback_within,16,0.8,3
+user_neutral_factual -> user_neutral_factual,16,0.8,2
+user_neutral_factual -> astro_callback_within,16,0.8,2
+astro_other -> user_neutral_factual -> user_neutral_factual,16,0.8,3
+astro_other -> astro_other -> user_neutral_factual -> user_neutral_factual,16,0.8,4

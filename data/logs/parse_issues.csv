@@ -1,45 +1,29 @@
 source_folder,file,issue,detail
 Sitara-1,conversation_1253527_4336.csv,session_missing_end_marker,last session in file
 Sitara-1,conversation_135007_4336.csv,no_session_markers_found,treating entire file as a single session
-Sitara-1,conversation_2139311_4336.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
 Sitara-1,conversation_3126894_4336.csv,unexpected_raw_order,only 84% descending / 0% ascending steps
 Sitara-1,conversation_3151823_4336.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
 Sitara-1,conversation_3152344_4336.csv,session_missing_end_marker,last session in file
-Sitara-1,conversation_3188492_4336.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
-Sitara-1,conversation_3411029_4336.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
-Sitara-1,conversation_3481489_4336.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
 Sitara-1,conversation_3539097_4336.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
 Sitara-1,conversation_3539097_4336.csv,session_missing_end_marker,last session in file
 Sitara-1,conversation_3547345_4336.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
 Sitara-1,conversation_3557997_4336.csv,session_missing_end_marker,last session in file
-Sitara-1,conversation_3573213_4336.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
 Sitara-1,conversation_3577598_4336.csv,unexpected_raw_order,only 90% descending / 0% ascending steps
-Sitara-1,conversation_3580611_4336.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
 Sitara-1,conversation_3600598_4336.csv,session_missing_end_marker,last session in file
 Sitara-1,conversation_3600765_4336.csv,session_missing_end_marker,last session in file
-Sitara-1,conversation_3621169_4336.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
 Sitara-1,conversation_3621169_4336.csv,session_missing_end_marker,last session in file
-Sitara-1,conversation_3622058_4336.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
 Sitara-1,conversation_3626523_4336.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
-Sitara-1,conversation_3628759_4336.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
 Sitara-1,conversation_3630142_4336.csv,large_internal_gap_possible_unmarked_boundary,14.9h gap inside one detected session with no marker
-Sitara-1,conversation_3650268_4336.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
 Sitara-1,conversation_3650536_4336.csv,unexpected_raw_order,only 90% descending / 0% ascending steps
 Sitara-1,conversation_3663916_4336.csv,no_end_markers,
-Sitara-1,conversation_3663916_4336.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
 Sitara-1,conversation_3663916_4336.csv,session_missing_end_marker,last session in file
 Sitara-1,conversation_959130_4336.csv,session_missing_end_marker,last session in file
-Sitara-2,conversation_1396719_4336.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
 Sitara-2,conversation_2092151_4336.csv,no_end_markers,
-Sitara-2,conversation_2092151_4336.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
 Sitara-2,conversation_2092151_4336.csv,session_missing_end_marker,last session in file
 Sitara-2,conversation_3400476_4336.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
 Sitara-2,conversation_3600087_4336.csv,large_internal_gap_possible_unmarked_boundary,40.3h gap inside one detected session with no marker
-Sitara-2,conversation_4048877_4336.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
-Sitara-2,conversation_4613992_4336.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
 Sitara-2,conversation_4692098_4336.csv,no_end_markers,
 Sitara-2,conversation_4692098_4336.csv,session_missing_end_marker,last session in file
-Sitara-2,conversation_5161202_4336.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
 Sitara-2,conversation_5162157_4336.csv,unexpected_raw_order,only 89% descending / 0% ascending steps
 Sitara-2,conversation_5192076_4336.csv,no_end_markers,
 Sitara-2,conversation_5192076_4336.csv,session_missing_end_marker,last session in file
@@ -59,17 +43,11 @@ Sitara-2,conversation_5229616_4336.csv,unexpected_raw_order,only 90% descending 
 Sitara-2,conversation_5229880_4336.csv,no_end_markers,
 Sitara-2,conversation_5229880_4336.csv,session_missing_end_marker,last session in file
 Sitara-2,conversation_5230182_4336.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
-Sitara-2,conversation_5232430_4336.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
 Sitara-2,conversation_5246045_4336.csv,unexpected_raw_order,only 89% descending / 0% ascending steps
-Sitara-2,conversation_5251163_4336.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
-Sitara-2,conversation_5255752_4336.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
 Sitara-2,conversation_5259595_4336.csv,session_missing_end_marker,last session in file
 Sitara-2,conversation_5259865_4336.csv,no_end_markers,
 Sitara-2,conversation_5259865_4336.csv,session_missing_end_marker,last session in file
-Sitara-2,conversation_5262692_4336.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
 Sitara-2,conversation_5263693_4336.csv,session_missing_end_marker,last session in file
-Sitara-2,conversation_5263918_4336.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
-Sitara-2,conversation_5270185_4336.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
 Sitara-2,conversation_646444_4336.csv,no_end_markers,
 Sitara-2,conversation_646444_4336.csv,session_missing_end_marker,last session in file
 Human_Astro,conversation_1338879_1953.csv,large_internal_gap_possible_unmarked_boundary,26.5h gap inside one detected session with no marker
@@ -150,51 +128,82 @@ Human_Astro,conversation_3775635_1691.csv,large_internal_gap_possible_unmarked_b
 Human_Astro,conversation_3775635_1691.csv,session_missing_end_marker,last session in file
 Human_Astro,conversation_418962_1436.csv,large_internal_gap_possible_unmarked_boundary,87.8h gap inside one detected session with no marker
 Human_Astro,conversation_418962_1436.csv,large_internal_gap_possible_unmarked_boundary,36.4h gap inside one detected session with no marker
+Human_Single,conversation_1014545_1300.csv,no_session_markers_found,treating entire file as a single session
 Human_Single,conversation_1028497_4.csv,no_session_markers_found,treating entire file as a single session
 Human_Single,conversation_1045860_285.csv,unexpected_raw_order,only 90% descending / 0% ascending steps
 Human_Single,conversation_1045860_285.csv,no_end_markers,
 Human_Single,conversation_1045860_285.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
 Human_Single,conversation_1045860_285.csv,session_missing_end_marker,last session in file
+Human_Single,conversation_1058261_2236.csv,no_end_markers,
+Human_Single,conversation_1058261_2236.csv,session_missing_end_marker,last session in file
 Human_Single,conversation_1185325_1883.csv,unexpected_raw_order,only 88% descending / 0% ascending steps
 Human_Single,conversation_1185325_1883.csv,no_end_markers,
 Human_Single,conversation_1185325_1883.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
 Human_Single,conversation_1185325_1883.csv,large_internal_gap_possible_unmarked_boundary,68.2h gap inside one detected session with no marker
 Human_Single,conversation_1185325_1883.csv,session_missing_end_marker,last session in file
 Human_Single,conversation_1279776_4.csv,no_end_markers,
-Human_Single,conversation_1279776_4.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
 Human_Single,conversation_1279776_4.csv,session_missing_end_marker,last session in file
+Human_Single,conversation_1348732_1411.csv,no_end_markers,
+Human_Single,conversation_1348732_1411.csv,session_missing_end_marker,last session in file
+Human_Single,conversation_135782_168.csv,no_end_markers,
+Human_Single,conversation_135782_168.csv,session_missing_end_marker,last session in file
 Human_Single,conversation_1377435_2442.csv,unexpected_raw_order,only 86% descending / 0% ascending steps
 Human_Single,conversation_1377435_2442.csv,no_end_markers,
 Human_Single,conversation_1377435_2442.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
 Human_Single,conversation_1377435_2442.csv,session_missing_end_marker,last session in file
+Human_Single,conversation_1389813_2387.csv,unexpected_raw_order,only 86% descending / 0% ascending steps
+Human_Single,conversation_1389813_2387.csv,no_end_markers,
+Human_Single,conversation_1389813_2387.csv,session_missing_end_marker,last session in file
 Human_Single,conversation_1393970_340.csv,no_end_markers,
-Human_Single,conversation_1393970_340.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
 Human_Single,conversation_1393970_340.csv,session_missing_end_marker,last session in file
+Human_Single,conversation_1444546_752.csv,unexpected_raw_order,only 80% descending / 0% ascending steps
+Human_Single,conversation_1444546_752.csv,no_end_markers,
+Human_Single,conversation_1444546_752.csv,session_missing_end_marker,last session in file
+Human_Single,conversation_1489500_2569.csv,no_end_markers,
+Human_Single,conversation_1489500_2569.csv,session_missing_end_marker,last session in file
 Human_Single,conversation_1496235_2530.csv,no_end_markers,
-Human_Single,conversation_1496235_2530.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
 Human_Single,conversation_1496235_2530.csv,large_internal_gap_possible_unmarked_boundary,33.5h gap inside one detected session with no marker
 Human_Single,conversation_1496235_2530.csv,session_missing_end_marker,last session in file
 Human_Single,conversation_1521109_1849.csv,unexpected_raw_order,only 87% descending / 0% ascending steps
 Human_Single,conversation_1521109_1849.csv,no_end_markers,
 Human_Single,conversation_1521109_1849.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
 Human_Single,conversation_1521109_1849.csv,session_missing_end_marker,last session in file
+Human_Single,conversation_174849_732.csv,unexpected_raw_order,only 86% descending / 0% ascending steps
+Human_Single,conversation_174849_732.csv,no_end_markers,
+Human_Single,conversation_174849_732.csv,session_missing_end_marker,last session in file
 Human_Single,conversation_244875_4.csv,no_end_markers,
-Human_Single,conversation_244875_4.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
 Human_Single,conversation_244875_4.csv,large_internal_gap_possible_unmarked_boundary,34.4h gap inside one detected session with no marker
 Human_Single,conversation_244875_4.csv,session_missing_end_marker,last session in file
+Human_Single,conversation_438355_752.csv,unexpected_raw_order,only 88% descending / 0% ascending steps
+Human_Single,conversation_438355_752.csv,no_end_markers,
+Human_Single,conversation_438355_752.csv,session_missing_end_marker,last session in file
+Human_Single,conversation_484081_723.csv,unexpected_raw_order,only 83% descending / 0% ascending steps
+Human_Single,conversation_484081_723.csv,no_end_markers,
+Human_Single,conversation_484081_723.csv,session_missing_end_marker,last session in file
 Human_Single,conversation_656390_1004.csv,no_end_markers,
-Human_Single,conversation_656390_1004.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
 Human_Single,conversation_656390_1004.csv,session_missing_end_marker,last session in file
+Human_Single,conversation_695474_168.csv,unexpected_raw_order,only 83% descending / 0% ascending steps
+Human_Single,conversation_695474_168.csv,no_end_markers,
+Human_Single,conversation_695474_168.csv,session_missing_end_marker,last session in file
+Human_Single,conversation_711508_1960.csv,no_end_markers,
+Human_Single,conversation_711508_1960.csv,session_missing_end_marker,last session in file
+Human_Single,conversation_722590_2387.csv,no_end_markers,
+Human_Single,conversation_722590_2387.csv,session_missing_end_marker,last session in file
+Human_Single,conversation_742410_1961.csv,no_session_markers_found,treating entire file as a single session
 Human_Single,conversation_807936_1947.csv,no_end_markers,
-Human_Single,conversation_807936_1947.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
 Human_Single,conversation_807936_1947.csv,session_missing_end_marker,last session in file
+Human_Single,conversation_814390_2129.csv,unexpected_raw_order,only 89% descending / 0% ascending steps
+Human_Single,conversation_814390_2129.csv,no_end_markers,
+Human_Single,conversation_814390_2129.csv,session_missing_end_marker,last session in file
+Human_Single,conversation_821993_752.csv,no_end_markers,
+Human_Single,conversation_821993_752.csv,session_missing_end_marker,last session in file
 Human_Single,conversation_824271_2078.csv,no_end_markers,
-Human_Single,conversation_824271_2078.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
 Human_Single,conversation_824271_2078.csv,session_missing_end_marker,last session in file
 Human_Single,conversation_833669_4.csv,no_end_markers,
-Human_Single,conversation_833669_4.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
 Human_Single,conversation_833669_4.csv,large_internal_gap_possible_unmarked_boundary,390.8h gap inside one detected session with no marker
 Human_Single,conversation_833669_4.csv,session_missing_end_marker,last session in file
+Human_Single,conversation_878151_821.csv,no_end_markers,
+Human_Single,conversation_878151_821.csv,session_missing_end_marker,last session in file
 Human_Single,conversation_915999_60.csv,no_end_markers,
 Human_Single,conversation_915999_60.csv,no_start_marker_for_first_session,first session has no explicit welcome marker; treating file start as its boundary
 Human_Single,conversation_915999_60.csv,session_missing_end_marker,last session in file

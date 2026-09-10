@@ -1,0 +1,8 @@
+,value
+treated_pre,
+treated_post,26.436974789915965
+control_pre,14.653030303030302
+control_post,7.847222222222222
+did_estimate,
+naive_post_only_diff,18.589752567693743
+note,"did_estimate is NaN because Sitara-2 has no real pre-cutoff period (the versions launched sequentially, not concurrently) -- there is nothing to take a true difference-in-differences of here. naive_post_only_diff is shown purely to prove the scaffold runs end-to-end; it is a raw post-period mean difference, NOT a causal DiD estimate, and should not be interpreted as a version effect."

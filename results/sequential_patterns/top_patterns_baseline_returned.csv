@@ -1,0 +1,16 @@
+pattern,support,support_frac,length
+astro_other -> astro_other,628,0.9088277858176556,2
+astro_other -> user_neutral_factual,624,0.9030390738060782,2
+user_neutral_factual -> astro_other,612,0.8856729377713459,2
+user_neutral_factual -> user_neutral_factual,610,0.8827785817655571,2
+user_neutral -> astro_other,605,0.8755426917510853,2
+user_neutral -> user_neutral_factual,586,0.8480463096960926,2
+astro_other -> astro_other -> astro_other,585,0.8465991316931982,3
+astro_other -> user_neutral_factual -> user_neutral_factual,569,0.8234442836468886,3
+astro_other -> astro_other -> user_neutral_factual,568,0.8219971056439942,3
+astro_other -> user_neutral_factual -> astro_other,565,0.8176555716353111,3
+user_neutral -> astro_other -> astro_other,565,0.8176555716353111,3
+user_neutral_factual -> user_neutral_factual -> user_neutral_factual,558,0.8075253256150506,3
+user_neutral_factual -> astro_other -> astro_other,557,0.8060781476121563,3
+user_neutral -> astro_other -> user_neutral_factual,556,0.804630969609262,3
+user_neutral_factual -> astro_other -> user_neutral_factual,552,0.7988422575976846,3

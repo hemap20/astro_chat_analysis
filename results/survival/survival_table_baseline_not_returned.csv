@@ -1,0 +1,12 @@
+session_id,n_turns,disengage_duration,disengage_event,positive_duration,positive_event,concrete_dated_prediction,specific_open_thread_named,callback_prior_session,callback_within_session,validation,self_correction,reframe
+Human_Single::conversation_1014545_1300.csv::s1,24,24,1,24,0,0.08333333333333333,0.08333333333333333,0.0,0.0,0.0,0.0,0.08333333333333333
+Human_Single::conversation_1028497_4.csv::s1,44,5,1,44,0,0.058823529411764705,0.0,0.0,0.17647058823529413,0.11764705882352941,0.0,0.0
+Human_Single::conversation_1279776_4.csv::s1,32,32,1,28,1,0.10526315789473684,0.0,0.0,0.05263157894736842,0.0,0.0,0.0
+Human_Single::conversation_1393970_340.csv::s1,41,41,0,41,1,0.034482758620689655,0.0,0.0,0.20689655172413793,0.0,0.0,0.034482758620689655
+Human_Single::conversation_1496235_2530.csv::s1,22,21,1,22,0,0.0,0.0,0.0,0.0,0.0,0.0,0.25
+Human_Single::conversation_244875_4.csv::s1,42,41,1,19,1,0.0,0.058823529411764705,0.0,0.4117647058823529,0.0,0.0,0.0
+Human_Single::conversation_722590_2387.csv::s1,2,2,1,2,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Human_Single::conversation_742410_1961.csv::s1,44,44,1,44,0,0.0,0.0,0.0,0.6875,0.0,0.0,0.0
+Human_Single::conversation_807936_1947.csv::s1,76,76,1,76,0,0.0,0.0,0.0,0.8048780487804879,0.12195121951219512,0.0,0.04878048780487805
+Human_Single::conversation_824271_2078.csv::s1,14,14,0,14,1,0.1,0.0,0.0,0.7,0.1,0.0,0.4
+Human_Single::conversation_833669_4.csv::s1,33,32,1,33,0,0.0,0.0,0.0,0.3125,0.0,0.0,0.0
